@@ -1,0 +1,7 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ShinyBlue.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ShinyBlue.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ShinyBlue.XML
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyBlue\obj\Debug\Controls.Theming.ShinyBlue.csprojResolveAssemblyReference.cache
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyBlue\obj\Debug\System.Windows.Controls.Theming.ShinyBlue.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyBlue\obj\Debug\System.Windows.Controls.Theming.ShinyBlue.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyBlue\obj\Debug\System.Windows.Controls.Theming.ShinyBlue.pdb

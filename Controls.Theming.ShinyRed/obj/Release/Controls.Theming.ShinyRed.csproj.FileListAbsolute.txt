@@ -1,0 +1,7 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ShinyRed.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ShinyRed.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ShinyRed.XML
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyRed\obj\Release\Controls.Theming.ShinyRed.csprojResolveAssemblyReference.cache
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyRed\obj\Release\System.Windows.Controls.Theming.ShinyRed.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyRed\obj\Release\System.Windows.Controls.Theming.ShinyRed.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ShinyRed\obj\Release\System.Windows.Controls.Theming.ShinyRed.pdb

@@ -1,0 +1,6 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.WhistlerBlue.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.WhistlerBlue.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.WhistlerBlue.XML
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.WhistlerBlue\obj\Debug\System.Windows.Controls.Theming.WhistlerBlue.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.WhistlerBlue\obj\Debug\System.Windows.Controls.Theming.WhistlerBlue.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.WhistlerBlue\obj\Debug\System.Windows.Controls.Theming.WhistlerBlue.pdb

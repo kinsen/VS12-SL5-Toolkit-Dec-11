@@ -1,0 +1,7 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ExpressionDark.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ExpressionDark.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ExpressionDark.XML
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ExpressionDark\obj\Debug\Controls.Theming.ExpressionDark.csprojResolveAssemblyReference.cache
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ExpressionDark\obj\Debug\System.Windows.Controls.Theming.ExpressionDark.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ExpressionDark\obj\Debug\System.Windows.Controls.Theming.ExpressionDark.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ExpressionDark\obj\Debug\System.Windows.Controls.Theming.ExpressionDark.pdb

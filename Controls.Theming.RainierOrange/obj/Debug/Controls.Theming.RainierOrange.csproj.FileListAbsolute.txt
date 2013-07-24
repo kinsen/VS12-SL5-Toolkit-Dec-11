@@ -1,0 +1,7 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.RainierOrange.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.RainierOrange.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.RainierOrange.XML
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.RainierOrange\obj\Debug\Controls.Theming.RainierOrange.csprojResolveAssemblyReference.cache
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.RainierOrange\obj\Debug\System.Windows.Controls.Theming.RainierOrange.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.RainierOrange\obj\Debug\System.Windows.Controls.Theming.RainierOrange.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.RainierOrange\obj\Debug\System.Windows.Controls.Theming.RainierOrange.pdb

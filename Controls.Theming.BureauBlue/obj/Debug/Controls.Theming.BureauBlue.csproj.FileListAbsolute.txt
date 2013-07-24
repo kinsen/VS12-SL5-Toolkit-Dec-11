@@ -1,0 +1,6 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.BureauBlue.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.BureauBlue.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.BureauBlue.XML
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.BureauBlue\obj\Debug\System.Windows.Controls.Theming.BureauBlue.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.BureauBlue\obj\Debug\System.Windows.Controls.Theming.BureauBlue.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.BureauBlue\obj\Debug\System.Windows.Controls.Theming.BureauBlue.pdb

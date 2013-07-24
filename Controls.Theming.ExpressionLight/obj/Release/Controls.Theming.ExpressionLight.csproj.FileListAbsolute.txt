@@ -1,0 +1,6 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ExpressionLight.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ExpressionLight.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.ExpressionLight.XML
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ExpressionLight\obj\Release\System.Windows.Controls.Theming.ExpressionLight.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ExpressionLight\obj\Release\System.Windows.Controls.Theming.ExpressionLight.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.ExpressionLight\obj\Release\System.Windows.Controls.Theming.ExpressionLight.pdb

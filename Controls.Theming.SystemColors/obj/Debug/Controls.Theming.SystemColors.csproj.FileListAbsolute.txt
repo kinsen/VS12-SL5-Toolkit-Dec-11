@@ -1,0 +1,6 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.SystemColors.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.SystemColors.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.SystemColors.xml
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.SystemColors\obj\Debug\System.Windows.Controls.Theming.SystemColors.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.SystemColors\obj\Debug\System.Windows.Controls.Theming.SystemColors.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.SystemColors\obj\Debug\System.Windows.Controls.Theming.SystemColors.pdb

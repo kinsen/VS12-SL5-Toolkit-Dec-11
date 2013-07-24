@@ -1,0 +1,6 @@
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.BubbleCreme.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.BubbleCreme.pdb
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Binaries\System.Windows.Controls.Theming.BubbleCreme.xml
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.BubbleCreme\obj\Release\System.Windows.Controls.Theming.BubbleCreme.g.resources
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.BubbleCreme\obj\Release\System.Windows.Controls.Theming.BubbleCreme.dll
+D:\VS2012Projects\Silverlight Dec11 Toolkit Source\Controls.Theming.BubbleCreme\obj\Release\System.Windows.Controls.Theming.BubbleCreme.pdb
