@@ -1,0 +1,10 @@
+D:\Git\SL5 Toolkit 12-11\Binaries\System.Windows.Controls.Data.DataForm.Toolkit.XML
+D:\Git\SL5 Toolkit 12-11\Binaries\System.Windows.Controls.Data.DataForm.Toolkit.dll
+D:\Git\SL5 Toolkit 12-11\Binaries\System.Windows.Controls.Data.DataForm.Toolkit.pdb
+D:\Git\SL5 Toolkit 12-11\Controls.Data.DataForm.Toolkit\obj\Release\Controls.Data.DataForm.Toolkit.csprojResolveAssemblyReference.cache
+D:\Git\SL5 Toolkit 12-11\Controls.Data.DataForm.Toolkit\obj\Release\System.Windows.Controls.Data.DataForm.Toolkit.g.resources
+D:\Git\SL5 Toolkit 12-11\Controls.Data.DataForm.Toolkit\obj\Release\System.Windows.Controls.Common.CommonResources.resources
+D:\Git\SL5 Toolkit 12-11\Controls.Data.DataForm.Toolkit\obj\Release\System.Windows.Controls.Resources.resources
+D:\Git\SL5 Toolkit 12-11\Controls.Data.DataForm.Toolkit\obj\Release\Controls.Data.DataForm.Toolkit.csproj.GenerateResource.Cache
+D:\Git\SL5 Toolkit 12-11\Controls.Data.DataForm.Toolkit\obj\Release\System.Windows.Controls.Data.DataForm.Toolkit.dll
+D:\Git\SL5 Toolkit 12-11\Controls.Data.DataForm.Toolkit\obj\Release\System.Windows.Controls.Data.DataForm.Toolkit.pdb
